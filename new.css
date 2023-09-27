@@ -1,0 +1,93 @@
+/* #main{
+    width: 100%;
+    display: flex;
+    border: 2px solid black;
+    height: 700px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.sub{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    background-color: red;
+} */
+
+/* #menu{
+    width: 100%;
+    display: flex;
+    border: 5px solid brown;
+    height: 600px;
+    align-items: center;
+    justify-content: space-evenly;
+    background-image: url(https://images.alphacoders.com/746/74671.jpg);
+}
+
+.sub{
+    width: 300px;
+    height: 300px;
+    border: 5px solid black;
+} */
+
+
+
+
+
+.nav{
+    border: 5px solid rgb(17, 16, 16);
+    width: 100%;
+    height: 100px; 
+    background-color: rgb(129, 101, 101);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+    font-size: larger;
+    font-style: inherit;
+              
+}
+#middle{
+    border: 5px solid rgb(234, 226, 226);
+    width: 100%;
+    min-height: 500px;
+    display: flex;
+
+}
+.sidebar{
+    border: 2px solid rgb(17, 16, 16);
+    width: 20%;
+    height: 500px;
+    background-color: rgb(83, 85, 85);
+
+}
+.massage{
+    width: 80%;
+    min-height:500px;
+    background-color: rgb(228, 220, 220);
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    padding-left: 4em;
+    
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    border:5px solid rgb(6, 6, 6) ;
+    background-color: darkgray;
+}
+
+.side-bar{
+   
+    padding: 23px;
+    background-color: black;
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: fixed;
+    
+}
+.Massage{
+    padding-left: 14em;
+}

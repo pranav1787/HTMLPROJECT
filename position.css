@@ -1,0 +1,17 @@
+#mother{
+
+    width: 500px;
+    height: 1000px;
+    background-color: aquamarine;
+    font-size:larger;  
+    /* position: absolute; */
+}
+#child{
+    width:200px;
+    height: 300px;
+    background-color: blue;
+    padding: 3em;
+    position: fixed;
+    right: 0;
+
+}
